@@ -1,0 +1,11 @@
+.winbox.matrix {
+    background: #0f0
+}
+
+.winbox.matrix .wb-title {
+    color: #0f0
+}
+
+.winbox.matrix .wb-control {
+    filter: invert(1)
+}
